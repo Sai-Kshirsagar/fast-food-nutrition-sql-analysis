@@ -35,6 +35,8 @@ This project is not intended to criticize, target, defame, or express any person
 
 All brand names and related information are used solely for identification and educational analysis.
 
+---
+
 ## Methodology
 
 The whole project is 20 SQL files, numbered in the order they were run. The numbers in brackets below point to those files.
