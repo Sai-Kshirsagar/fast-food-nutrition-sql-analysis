@@ -27,7 +27,7 @@ Nutrition labels list many nutrients separately, which makes it hard to judge ho
 
 ## Methodology
 
-The whole project is 20 SQL files, numbered in the order they were run (see [SQL files](#sql-files)). The numbers in brackets below point to those files.
+The whole project is 20 SQL files, numbered in the order they were run. The numbers in brackets below point to those files.
 
 ### 1. Cleaning (files 1-13)
 
@@ -166,6 +166,11 @@ Calories, sodium, saturated fat, trans fat and sugars are limits (lower is bette
 - **A high score is not a clean bill of health.** Some items score very high on my health score, yet they still fail the standard criteria. It is easy to shrug off one failed criterion, but failing even one is a real problem. None of the 10 highest-scoring items passes all seven checks, and only 4 of the 364 items do. Of the 91 highest-scoring items (the top quarter), 88 fail at least one check and 14 fail two or more. My score adds everything together, so strong results on some nutrients can hide a bad result on another. The score shows which items look healthy overall, and the criteria check shows which ones hold up.
 
 ---
+
+## Tableau dashboards
+
+- [All Items Health Scores](https://public.tableau.com/app/profile/sai.kshirsagar1799/viz/AllHealthScores/Sheet1?publish=yes)
+- [Food Chains Overview](https://public.tableau.com/app/profile/sai.kshirsagar1799/viz/Food_chains_ovr/Sheet1?publish=yes)
 
 ## SQL files
 
