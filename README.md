@@ -25,6 +25,16 @@ Nutrition labels list many nutrients separately, which makes it hard to judge ho
 
 ---
 
+## Disclaimer
+
+This project is strictly an educational and learning activity undertaken to develop practical skills in data cleaning, SQL, data analysis, and visualization.
+
+The analysis includes publicly available nutritional information from six major food chains and is intended solely for academic and personal skill-development purposes. Any comparisons, scores, rankings, or observations presented are based on the selected dataset, criteria, and methodology used in this project.
+
+This project is not intended to criticize, target, defame, or express any personal or negative opinions about the food chains or their brands. No commercial conclusions or judgments about the overall quality of their products or services should be drawn from this analysis.
+
+All brand names and related information are used solely for identification and educational analysis.
+
 ## Methodology
 
 The whole project is 20 SQL files, numbered in the order they were run. The numbers in brackets below point to those files.
