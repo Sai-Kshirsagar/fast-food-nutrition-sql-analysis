@@ -1,0 +1,15 @@
+ALTER TABLE `project-d129c4ea-acf9-44f7-91d`.Project.FastFoodNutritionMenuV3
+RENAME COLUMN string_field_0 TO Company,
+RENAME COLUMN string_field_1 TO Item,
+RENAME COLUMN string_field_2 TO Calories,
+RENAME COLUMN string_field_3 TO Calories_from_fat,
+RENAME COLUMN string_field_4 TO Total_Fat_gm,
+RENAME COLUMN string_field_5 TO Saturated_Fat_gm,
+RENAME COLUMN string_field_6 TO Trans_Fat_gm,
+RENAME COLUMN string_field_7 TO Cholesterol_gm,
+RENAME COLUMN string_field_8 TO Sodium_mg,
+RENAME COLUMN string_field_9 TO Carbs_gm,
+RENAME COLUMN string_field_10 TO Fiber_gm,
+RENAME COLUMN string_field_11 TO Sugars_gm,
+RENAME COLUMN string_field_12 TO Protein_gm,
+RENAME COLUMN string_field_13 TO Serving_Weight
